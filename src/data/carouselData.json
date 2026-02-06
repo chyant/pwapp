@@ -1,0 +1,20 @@
+{
+    "slides":[
+        {
+            "src":"https://www.salmar.no/wp-content/uploads/2023/06/Klima-og-miljo_2023_DSCF0154_2048-1280x960.jpg.webp",
+            "alt":"Image 1 for carousel"
+        },
+         {
+            "src":"https://www.salmar.no/wp-content/uploads/2023/06/Klima-og-miljo_2023_DSCF0722-SalMar-2048-1280x960.jpg.webp",
+            "alt":"Image 2 for carousel"
+        },
+         {
+            "src":"https://www.salmar.no/wp-content/uploads/2023/06/Mefjord-Vinter-SalMar-higres-scaled.jpg.webp",
+            "alt":"Image 3 for carousel"
+        },
+         {
+            "src":"https://www.salmar.no/wp-content/uploads/2023/06/Screenshot-2023-05-11-at-14.07.19-1280x710.jpg",
+            "alt":"Image 4 for carousel"
+        }
+    ]
+}
