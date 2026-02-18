@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pwapp/static/css/main.2e9c668a.css",
-    "main.js": "/pwapp/static/js/main.b0e1d18b.js",
+    "main.css": "/pwapp/static/css/main.074c9c3d.css",
+    "main.js": "/pwapp/static/js/main.d606c69f.js",
     "static/js/453.424c0e37.chunk.js": "/pwapp/static/js/453.424c0e37.chunk.js",
     "static/media/SalMar2024.pdf": "/pwapp/static/media/SalMar2024.391b058dd2d6b6a84d85.pdf",
     "static/media/PW Chioda Antonio.pdf": "/pwapp/static/media/PW Chioda Antonio.3f615fe4f3a20182dcdf.pdf",
     "static/media/contesto impresa Salmar.pdf": "/pwapp/static/media/contesto impresa Salmar.1a7beb50925f8ebe2bb3.pdf",
     "static/media/Logo.svg": "/pwapp/static/media/Logo.1f6af6724af4d938d78076f326737b6d.svg",
     "index.html": "/pwapp/index.html",
-    "main.2e9c668a.css.map": "/pwapp/static/css/main.2e9c668a.css.map",
-    "main.b0e1d18b.js.map": "/pwapp/static/js/main.b0e1d18b.js.map",
+    "main.074c9c3d.css.map": "/pwapp/static/css/main.074c9c3d.css.map",
+    "main.d606c69f.js.map": "/pwapp/static/js/main.d606c69f.js.map",
     "453.424c0e37.chunk.js.map": "/pwapp/static/js/453.424c0e37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e9c668a.css",
-    "static/js/main.b0e1d18b.js"
+    "static/css/main.074c9c3d.css",
+    "static/js/main.d606c69f.js"
   ]
 }
