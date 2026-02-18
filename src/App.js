@@ -120,7 +120,8 @@ function App() {
           <a className='btn outl arr'
             href={tesi}
             download="contesto impresa Salmar.pdf"
-            style={{ textDecoration: 'none' }}
+            style={{ textDecoration: 'none', 
+               display: 'none' }}
           >
 
             <FaFilePdf className='pdfIcon' />
@@ -131,7 +132,9 @@ function App() {
           <a className='btn outl arr'
             href={templatePW}
             download="PW Chioda Antonio.pdf"
-            style={{ textDecoration: 'none' }}
+            style={{ textDecoration: 'none', 
+               display: 'none'
+            }}
           >
             <FaFilePdf className='pdfIcon' />
             Project Work Antonio
